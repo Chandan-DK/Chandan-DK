@@ -1,7 +1,7 @@
 # Hi 👋, I'm Chandan DK
 💻 Computer Science Engineering Student<br>
 🌐 Embracing the Open Source Journey<br>
-🛠️ DevOps Enthusiast<br>
+🛠️ Cloud Enthusiast<br>
 🚀 Exploring Kubernetes, AWS, and Beyond<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-dk&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-dk" /> </p>
