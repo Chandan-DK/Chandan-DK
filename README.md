@@ -1,5 +1,5 @@
 # Hi 👋, I'm Chandan DK
-💻 Computer Science Engineering Student<br>
+💻 Final Year Computer Science Engineering Student (Graduating in 2025) <br>
 🌐 Embracing the Open Source Journey<br>
 🛠️ Cloud Enthusiast<br>
 🚀 Exploring Kubernetes, AWS, and Beyond<br>
